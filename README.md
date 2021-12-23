@@ -7,5 +7,9 @@
     <b> npm install</b><br />
     <b> npm start</b>
   </li>
-  <li></li>
+ >
+  <li>cd frontend<br />
+    <b > npm install</b><br />
+    <b> npm start</b>
+  </li>
  </ul>
