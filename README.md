@@ -26,3 +26,7 @@
     <img src="https://github.com/simranxx9/MoviesPlaylist/blob/master/frontend/public/img/publicPlaylist.png" alt=""  height=300 width = 400/>
 <img src="https://github.com/simranxx9/MoviesPlaylist/blob/master/frontend/public/img/allPlaylist.png" alt=""  height=300 width = 400/>
 </div>
+
+
+## TECH STACK USED
+> MERN Stack
