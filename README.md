@@ -1,4 +1,7 @@
 # MoviesPlaylist
+
+<h2 style="text-align:center"><a href="https://drive.google.com/file/d/1qP27xom7-N2jyrbUtZMWoQaCc6g6jNih/view?usp=sharing">DEMO VIDEO</a></h2>
+
 ## Steps to launch
 >  git clone https://github.com/simranxx9/MoviesPlaylist.git
 
