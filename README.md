@@ -11,4 +11,6 @@
 > cd frontend<br />
     <b > npm install</b><br />
     <b> npm start</b>
- 
+---
+## Overview
+<img src="https://github.com/simranxx9/MoviesPlaylist/blob/master/frontend/public/img/login.PNG" alt=""  height=200 width = 200/>
