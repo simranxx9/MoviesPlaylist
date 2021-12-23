@@ -1,14 +1,14 @@
 # MoviesPlaylist
 ## Steps to launch
 <ul>
->  <li>git clone https://github.com/simranxx9/MoviesPlaylist.git</li>
->  <li>cd MoviesPlaylist</li>
->  <li>cd backend<br />
+>  git clone https://github.com/simranxx9/MoviesPlaylist.git
+>  cd MoviesPlaylist
+>  cd backend<br />
     <b> npm install</b><br />
     <b> npm start</b>
-  </li>
->  <li>cd frontend<br />
+ 
+> cd frontend<br />
     <b > npm install</b><br />
     <b> npm start</b>
-  </li>
+ 
  </ul>
